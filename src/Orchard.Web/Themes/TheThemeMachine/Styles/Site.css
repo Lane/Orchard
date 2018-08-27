@@ -16,6 +16,15 @@ Main Accent: #999
 Links: #5f97af
 */
 
+.test-message {
+    position:absolute;
+    top:0;
+    right:0;
+    padding:4px;
+    background:#fee;
+    color:#000;
+    z-index: 9999;
+}
 
 
 /* Reset
